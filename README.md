@@ -1,6 +1,12 @@
 # Kogan Coding Challange 
 An app that calculates average cubic weight given the list of products. 
 
+Language: Kotlin
+
+AS: 4.0.1
+
+Gradle: 6.1.1
+
 # Libraries used: 
 - Moshi – json parsing
 - Ktor – network library
