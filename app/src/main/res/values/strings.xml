@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kogan-codding-challenge</string>
+
+    <string name="average_cubic_weight_pattern">Average Cubic Weight: %s kg</string>
+    <string name="error_title">Something went wrong</string>
+    <string name="retry">Retry</string>
+</resources>
